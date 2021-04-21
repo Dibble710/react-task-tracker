@@ -8,9 +8,11 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-color: white;
 }
 
 .container {
+  background-color: #b2cecf;
   max-width: 500px;
   margin: 30px auto;
   overflow: auto;
@@ -29,7 +31,7 @@ body {
 
 .btn {
   display: inline-block;
-  background: #000;
+  background: #50d07d;
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -55,7 +57,7 @@ body {
 }
 
 .task {
-  background-color: rgba(0, 0, 0, 0.123);
+  background-color: white;
   margin: 5px;
   padding: 10px 20px;
   cursor: pointer;
