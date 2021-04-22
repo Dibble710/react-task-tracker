@@ -5,12 +5,6 @@
       "text": "Learn Redux",
       "day": "Friday March 33rd",
       "reminder": true
-    },
-    {
-      "text": "Make sure to make this shit look GOOD",
-      "day": "Today and tomorrow",
-      "reminder": true,
-      "id": 4
     }
   ]
 }

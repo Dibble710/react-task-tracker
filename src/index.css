@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: white;
+  background-color: rgb(255, 205, 161);
 }
 
 .container {
@@ -43,6 +43,10 @@ body {
   font-family: inherit;
 }
 
+.btn:hover {
+  background-color: rgb(30, 127, 253);
+}
+
 .btn:focus {
   outline: none;
 }
@@ -62,9 +66,13 @@ body {
   padding: 10px 20px;
   cursor: pointer;
 }
+.task-start {
+  text-align: center;
+  margin: 40px;
+}
 
 .task.reminder {
-  border-left: 5px solid green;
+  border-left: 5px solid #50d07d;
 }
 
 .task h3 {
