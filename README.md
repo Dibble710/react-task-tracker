@@ -1,4 +1,4 @@
-Link to live demo site - https://dibble-task-tracker.netlify.app/
+
 
 
 # Getting Started with Create React App
